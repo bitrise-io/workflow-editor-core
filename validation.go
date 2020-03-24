@@ -3,7 +3,6 @@ package core
 import (
 	"encoding/base64"
 	"fmt"
-	"os"
 	"strings"
 
 	"github.com/bitrise-io/bitrise/cli"
@@ -51,13 +50,4 @@ func ValidateBitriseConfigAndSecret(bitriseConfig, secretsConfig string) (*Warni
 	}
 
 	return nil, nil
-}
-
-// EnvString ...
-func EnvString(env, fallback string) string {
-	e := os.Getenv(env)
-	if e == "" {
-		return fallback
-	}
-	return e
 }
