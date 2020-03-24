@@ -3,6 +3,8 @@ github.com/bitrise-io/bitrise v0.0.0-20200317124335-5f428f25413f h1:JthsJ/8tYWyl
 github.com/bitrise-io/bitrise v0.0.0-20200317124335-5f428f25413f/go.mod h1:+8ruIdZ7mWWfrd/Of38jmN50x6Y80H7SMmwf78HhBno=
 github.com/bitrise-io/colorstring v0.0.0-20180614154802-a8cd70115192 h1:vSHYT6kCL/iOT9BVuUPm0tVcbW57r5zldLWg0aB7qbQ=
 github.com/bitrise-io/colorstring v0.0.0-20180614154802-a8cd70115192/go.mod h1:CIHVcxZUvsG99XUJV6JlR7okNsMMGY81jMvPC20W+O0=
+github.com/bitrise-io/depman v0.0.0-20190402141727-e5c92c35cd92 h1:+alkNYr5sbvCpvu2YQC4SLddnIP2BeAIjr8/EsObonw=
+github.com/bitrise-io/depman v0.0.0-20190402141727-e5c92c35cd92/go.mod h1:jeK3Koe+wXMSwfl8t6M7kovGgXsayUJ5ybqo3gDJgts=
 github.com/bitrise-io/envman v0.0.0-20200114121258-24a8f7287598 h1:S2wTZ0l8dkwjEDJQ268o7SJir98n0mMP3+n46lZ4HnE=
 github.com/bitrise-io/envman v0.0.0-20200114121258-24a8f7287598/go.mod h1:m8pTp1o3Sw9uzDxb1WRm5IBRnMau2iOvPMSnRCAhQNI=
 github.com/bitrise-io/go-utils v0.0.0-20200224122728-e212188d99b4 h1:35ImX3SrDgRYVDPue7NhybnQ3quuVrTQzjjul+R3aUI=

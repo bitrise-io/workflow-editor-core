@@ -6,6 +6,7 @@ require (
 	github.com/Sirupsen/logrus v1.4.2 // indirect
 	github.com/bitrise-io/bitrise v0.0.0-20200317124335-5f428f25413f
 	github.com/bitrise-io/colorstring v0.0.0-20180614154802-a8cd70115192 // indirect
+	github.com/bitrise-io/depman v0.0.0-20190402141727-e5c92c35cd92
 	github.com/bitrise-io/envman v0.0.0-20200114121258-24a8f7287598
 	github.com/bitrise-io/go-utils v0.0.0-20200224122728-e212188d99b4
 	github.com/bitrise-io/goinp v0.0.0-20190611131639-bd18a8681e27 // indirect
